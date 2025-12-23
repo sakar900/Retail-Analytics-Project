@@ -76,13 +76,7 @@ The dataset closely mirrors real-world retail transaction data, making it suitab
 ---
 
 ## 📊 Dashboards & Reporting
-Interactive dashboards were developed using **Power BI and Tableau** to enable:
-- Executive-level KPI monitoring
-- Regional and category-level drilldowns
-- Customer segmentation and profitability insights
-- Self-serve exploration for business stakeholders
-
-> Dashboard screenshots are included in the `dashboards/` folder.
+In addition to this project, Tableau has been used extensively in separate analytical projects. A live Tableau Public dashboard (built on Airbnb data) is available to demonstrate dashboard design, interactivity, and storytelling capabilities.
 
 ---
 
@@ -108,6 +102,9 @@ Interactive dashboards were developed using **Power BI and Tableau** to enable:
 - Cohort-based retention and churn analysis
 - Marketing campaign effectiveness measurement
 
+## 📊 Tableau Public
+A sample Tableau dashboard demonstrating interactive analytics and data storytelling:
+- Tableau Public Profile: <https://public.tableau.com/app/profile/sakar.dubey/viz/AirBnb_17649430774630/Dashboard1>
 
 ## ✅ Disclaimer
 This project is for learning and portfolio demonstration purposes. While the dataset is synthetic, the analytical approach, KPIs, and decision frameworks reflect real-world retail analytics practices.
