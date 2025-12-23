@@ -37,7 +37,7 @@ The dataset closely mirrors real-world retail transaction data, making it suitab
 
 ## 🛠️ Tools & Technologies
 - **SQL (Advanced):** CTEs, window functions, rolling metrics, YoY/MoM growth
-- **Python:** Pandas, Matplotlib for exploratory data analysis (EDA)
+- **Python:Used for exploratory data analysis and validation (notebooks excluded from repo for brevity)
 - **Power BI / Tableau:** Interactive dashboards for business users
 - **Excel:** Supporting analysis and validation
 - **GitHub:** Version control and project documentation
