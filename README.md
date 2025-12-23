@@ -108,19 +108,6 @@ Interactive dashboards were developed using **Power BI and Tableau** to enable:
 - Cohort-based retention and churn analysis
 - Marketing campaign effectiveness measurement
 
----
-
-## 📎 Project Structure
-Retail-Analytics-Project/
-│
-├── data/ # Retail transaction dataset
-├── sql/ # Advanced SQL analysis queries
-├── notebooks/ # Python EDA
-├── dashboards/ # Power BI / Tableau dashboard screenshots
-└── README.md
-
-
----
 
 ## ✅ Disclaimer
 This project is for learning and portfolio demonstration purposes. While the dataset is synthetic, the analytical approach, KPIs, and decision frameworks reflect real-world retail analytics practices.
